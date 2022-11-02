@@ -4,7 +4,7 @@ This project aims to analyze and discover the common standard features shared by
 
 ## DATASET :
 
-Different brands of tech gadgets with various features are chosen for analysis and collected via typeform - `129 (Respondents)`
+Different brands of tech gadgets with various features are chosen for analysis and collected via typeform - `129(Respondents)`
   
 **Gadgets names** – Smartphone, Mouse Keyboard, Headphone  Camera and Laptop
 
@@ -63,6 +63,6 @@ The above clustering analysis creates clusters based on customers' preferences f
 
 
 ## Reference 
-[]()
+[Brand-Perception.pdf](https://github.com/VidhyaVarshanyJS/Brand-Perception/blob/8dee06d62b966a881277288a524b95784cd92479/Project%20Documentation.pdf)
 
 
