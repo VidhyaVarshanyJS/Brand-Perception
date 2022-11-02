@@ -2,7 +2,7 @@
 
 This project aims to analyze and discover the common standard features shared by various tech gadgets from various brands that help the brand stand out in the market.
 
-## DATASET :
+## DATASET 
 
 Different brands of tech gadgets with various features are chosen for analysis and collected via typeform - `129(Respondents)`
   
@@ -44,9 +44,9 @@ Smartphone brand data is analyzed and clustered based on feature similarities, a
 When comparing the clusters with the brands, the above characteristic best fits the top three brands, namely `Samsung, Xiaomi, and Apple` and we can say that customers buys smartphones from these brands based on the characteristic depicted by each of the three clusters regarding the variables.
 
 For example :
-The person who seeks for best design, price, and performance can buy Apple Smartphones
-The person who is Brand-specific will buy Samsung smartphones
-The person who strives for the best Quality goes for Xiaomi smartphones
+- The person who seeks for best design, price, and performance can buy Apple Smartphones
+- The person who is Brand-specific will buy Samsung smartphones
+- The person who strives for the best Quality goes for Xiaomi smartphones
 
 ## Overall view form the survey report and Analysis
 
